@@ -1,37 +1,29 @@
 🕘️更新时间,#genre#
-2025-09-19 18:23:27,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+2025-09-20 06:18:23,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-CCTV-2,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
-CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV-6,http://124.165.251.82:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://111.227.196.164:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
+CETV-1,http://121.29.141.59:4022/rtp/239.253.92.211:6069
 CETV-1,http://223.167.230.154:4022/rtp/239.45.1.125:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
-CETV-1,http://113.106.171.234:8899/rtp/239.20.0.213:2224
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://180.154.61.39:4022/rtp/239.45.1.125:5140
 CETV-1,http://113.56.95.223:8889/rtp/228.0.0.146:7146
-CETV-1,http://114.254.39.135:18888/rtp/239.3.1.57:8152
-CETV-1,http://121.29.141.59:4022/rtp/239.253.92.211:6069
-CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
-CETV-1,http://114.107.46.94:8188/rtp/238.1.78.158:7136
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
+CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-2,http://139.129.231.228/rtp/239.21.2.8:5002
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
@@ -41,16 +33,11 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
-海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-山东卫视,http://iptv.zkbhj.com/tv/url/go?id=9a4460d97e191f9c6d31e3c551265bfe8f85b3d79758a19b712019b6d80de09ec82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
@@ -61,19 +48,17 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
-凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
-凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
+凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd,
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
-夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
+夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
