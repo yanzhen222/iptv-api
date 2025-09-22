@@ -1,34 +1,31 @@
 🕘️更新时间,#genre#
-2025-09-22 18:24:02,http://ygbh.site/php/bfgd.php?id=063
+2025-09-23 06:19:52,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 
 📺央视频道,#genre#
-CCTV-4,http://ygbh.site/php/bfgd.php?id=063
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
-CCTV-10,http://ygbh.site/php/bfgd.php?id=129
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130
 CCTV-12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://ygbh.site/php/bfgd.php?id=131
-CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
-CETV-1,http://121.29.141.59:4022/rtp/239.253.92.211:6069
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://121.29.141.59:4022/rtp/239.253.92.211:6069
 CETV-1,http://180.154.61.39:4022/rtp/239.45.1.125:5140
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
+CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV-2,http://121.29.141.59:4022/rtp/239.253.92.108:6136
+CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
+CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
+CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,http://ygbh.site/php/bfgd.php?id=492
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afcc30c88250b45e02c3ee3918e37e0dd8ac82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-辽宁卫视,http://61.184.46.85:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 
 ☘️四川频道,#genre#
@@ -42,8 +39,6 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
