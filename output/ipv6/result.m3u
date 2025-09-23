@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yanzhen222/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-23 18:23:52
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-24 06:21:06
+https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -10,9 +8,9 @@ https://www.freetv.top/migu/631780532.m3u8?migutoken=3817ca50a762ff83bc8d334da33
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://www.freetv.top/migu/631780421.m3u8?migutoken=9c479e166888f001e1fb4ab5502e734251c68075cd89836a715137a1a2a4b18b60e282b0f1a308d6641c282600bd8db3cef99cb15edd0ab61d81c4d76d154bb464e3a02a75b167298c4747ce6f
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://www.freetv.top/migu/631780421.m3u8?migutoken=7acf39385ea80b0efa77b918418fcf998d00455e8b98e02dff92961440d989e3b7da00ef24731d327c410f2ef9ceb51e2137c20b2b606646542ce4643521747bf78b7533b3ec604bba63ffdf43
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://www.freetv.top/migu/631780421.m3u8?migutoken=9c479e166888f001e1fb4ab5502e734251c68075cd89836a715137a1a2a4b18b60e282b0f1a308d6641c282600bd8db3cef99cb15edd0ab61d81c4d76d154bb464e3a02a75b167298c4747ce6f
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
@@ -65,8 +63,6 @@ https://www.freetv.top/migu/673168223.m3u8?migutoken=d46236e1f679dad891142868b96
 https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34d75ff515080f8def9861a030c98c5861b036729d642445a7bc5b0cd43e7086ca1903346f6cbad01b639771ee3bd13e653bdb2d14f169744862c9695688b0b177bc144a
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV-2
-https://cc06.tv12.xyz/24.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://www.freetv.top/migu/608831231.m3u8?migutoken=71ab4343c0e7a55b1287f3c4ec3383c9de673d987b5c849b2728e9af4223510bc8d8fcb87af13066db4920eb8e871c74aa5e93e04d43de870dc64eadb99a05456adfdb14b43000fd4520cba033
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
@@ -78,9 +74,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=beijing
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 https://www.freetv.top/migu/947472496.m3u8?migutoken=9bd305703117b6f1a9c2173244447e842908f2aec928c6d2a88e48e161877e502a2098f1870813f7673be0b35489dee17429bc5f241b1b21992b87b9e55379238e1a0cfe388465efacb4a6f6af
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://www.freetv.top/migu/651632648.m3u8?migutoken=82404ece5a3e1172fe62375275fbec1972e5760ebab5a792834d63b128c6d25cdbb7e8922093aebaf6b4ff8a12f4970bb82639383bb1571a21e1e74fda3c763651392bb4b918419230e8b830e0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -91,6 +87,8 @@ https://www.freetv.top/migu/849116810.m3u8?migutoken=ad40cfb84c6c3a70e2f36f9419f
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -106,9 +104,9 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://www.freetv.top/migu/738910838.m3u8?migutoken=35df06ac83a8fe0b0d98f96b8dbf5821d2a57fbd279c10148f5eb543353c48d828c15e639a63919e023774c69fac3a6f5a2bbfd1ee773d77c0dc154b9acd0c77e84c99627dd15f852e56ab3281
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://cc02.tv12.xyz/9.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://cc02.tv12.xyz/9.m3u8
 #EXTINF:-1 tvg-name="叙永综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叙永综合.png" group-title="☘️四川频道",叙永综合
 rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
