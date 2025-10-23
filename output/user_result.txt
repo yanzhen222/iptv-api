@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-23 18:27:31,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
+2025-10-24 06:20:16,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=701afbfc9d2f77d62a9cc2f9479ecde3db6cef36d454660b5d2f0ffb3a1017d0e04c2e19dcbb7c344d80cfb64e43e90dd66c458476898ee612d0e2e9261645fcfc0d32fb90cdf2021d89c4877a
@@ -7,7 +7,6 @@ CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=238417e78263f85047b2
 CCTV-2,https://jzb.wwkejishe.top/?id=579
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=6051cf0f824b7432a7e38cb90b50dbc8d5f9dbc684d357663ae821fb87ae233a45772b235431568e910e14c17b7496429d23d2b4b3501692941d1e6d364b2e35ccf5890eb0c31743c5dffaa2ef
 CCTV-3,https://jzb.wwkejishe.top/?id=580
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5e1f646f194fe505d91d562e427139a8cc1907bd48dbf0388a09a0a57428cb16498ab48b116a9fe1e0d3ef6b41b7157fda1e479f019ed20c5e1f164191b09d3d0e81f1d62352a2b14387f833e5
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681df5ec1922b77d612bf548b5e32ff4626a92ddf4935a6d91268da66b6f205ad0ad05a3e8f3df71e61d2f93679ac0c9ce72edcb607da33c0dedc1b5f60835ba726e273f9b
@@ -18,15 +17,14 @@ CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=6dccb38c956e0bb4edee
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=4dad15d020c7e258db98f5904ae6df15132c1dc28aefe8bf5e800f37e3445cd3ee5add3d06aae6d910e4708d9adb89cdb619e3bb7bacb873f79812ef4bb4b34316ee0d6cf8ec9a5fed0a82368f
 CCTV-9,https://jzb.wwkejishe.top/?id=587
 CCTV-10,https://jzb.wwkejishe.top/?id=588
-CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=1d0a7c51349d0d29392d62f5685c0adeccb58bc9a3ffea11a91caa97486b3676f1419283c7373cda120fc07d90d911e4191c58663b10666354a5140046e37437b3dfa6cb78242873fb16b97565
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=ff6a5a89e6ad0f73cd78424df3be0abe3743e8bbd37698f2dcee8ece0d6ffbe0c1205c704c08924958889799dcc66d9333f4273e5dc9ead670713fd2b2292e201873fb66020ec85899c7bd2a05
 CCTV-12,https://jzb.wwkejishe.top/?id=590
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=2ea304b199bfe39629418c1d50b3c9f34ba06712c9c7922a614411768b18496280cdfdee913572bdb8d1cdd3d5763460f2f0aea6c7a51095aaf66f1eb8f43ce6edbbeac22c35e78ecc39dbdf27
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
+CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=e6bd15e024af167f2ca00052d9bcd67ea8fb97ef7fc460b66c53fe1a4e5ef960f22ccc6ea16b995648364a330058a0f552e989000e7e98adfafc3a0259bb475e8c905ce600deedcd97464ca17f
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-14,http://61.184.46.85:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
@@ -34,55 +32,22 @@ CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c02d6805bd52cc36e4d16a29031a320eaed60d6d74d5b36653a81c659450938ab30e91f4b27468f176d304463164c178f446ff6d44d623dd787da315c58de6d4d0010bb1
 CCTV-17,https://jzb.wwkejishe.top/?id=594
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
-CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
-CETV-2,http://223.167.230.34:4022/rtp/239.45.1.52:5140
-CETV-2,http://139.129.231.228/rtp/239.21.2.8:5002
-CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
-CETV-2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
-CETV-2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
-CETV-2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
-CETV-2,http://ygbh.site/php/bfgd.php?id=492
-CETV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
-CETV-4,http://223.167.230.34:4022/rtp/239.45.1.50:5140
-CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761355085-2257f0fc0c536efec9d5e684e4dea767-0-931767c17cbfd1d075f45baaf2788d7a
 CETV-4,http://139.129.231.228/rtp/239.21.1.222:5002
-CETV-4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
-CETV-4,rtsp://180.95.143.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
-CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
-CETV-4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,https://jzb.wwkejishe.top/?id=604
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=95759756a54e94e55327bb13b854f38b8804506300bc7b2dc6d7896518d1cb705d68a47d6e445836946d997e2a858592d4082bf57643ec7ac74aa8bdd99fb70b8ab534cb9b55a950291eb07c63
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
-贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
-河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
-河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
 江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=49a45b3ba8201aca65a6b8be298982e4b5c80abded17ae9a45d43f576e0fabc24f849a21fff1e9653aace2fa93b5a1b13bb115f1ea22af88d87707910500a29b49881a6a8a76610a5c7c479903
-江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
-宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
-青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://jzb.wwkejishe.top/?id=603
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
-深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
-西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
-云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 ☘️四川频道,#genre#
 乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
@@ -94,8 +59,6 @@ CETV-4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/1000010000000006000000000
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
