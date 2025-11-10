@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-10 18:24:22,https://www.freetv.top/migu/673168121.m3u8?migutoken=97a46285e2ac80354b4cda7972c410ce7c4ea2d42ac569d87ec2072905e3f1274f652ad22225021e86a0449f109ca248ae7e401e49373b725d4190ff653b660e58abedd89065cf4c052ea97e81
+2025-11-11 06:27:39,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=97a46285e2ac80354b4cda7972c410ce7c4ea2d42ac569d87ec2072905e3f1274f652ad22225021e86a0449f109ca248ae7e401e49373b725d4190ff653b660e58abedd89065cf4c052ea97e81
-CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=7a9f631c12e3f260a1be234f09172421b9cb241df766874aae8a36485a148b231acfe7a255db39c6e6affcb6015c80f4607fcc3301cfb28d121090c6eef969c85d1a23a3a6e649c0557dda6ae3
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8

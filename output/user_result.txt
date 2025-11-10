@@ -1,17 +1,25 @@
 🕘️更新时间,#genre#
-2025-11-10 18:24:22,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-11 06:27:39,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=97a46285e2ac80354b4cda7972c410ce7c4ea2d42ac569d87ec2072905e3f1274f652ad22225021e86a0449f109ca248ae7e401e49373b725d4190ff653b660e58abedd89065cf4c052ea97e81
-CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=7a9f631c12e3f260a1be234f09172421b9cb241df766874aae8a36485a148b231acfe7a255db39c6e6affcb6015c80f4607fcc3301cfb28d121090c6eef969c85d1a23a3a6e649c0557dda6ae3
+CCTV-10,http://220.170.241.204:9901/tsfile/live/0010_1.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
+CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
 CETV-2,http://ygbh.site/php/bfgd.php?id=492
+CETV-2,http://223.167.230.34:4022/rtp/239.45.1.52:5140
+CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
+CETV-2,http://8.138.7.223/tv/migu2.php?id=89
+CETV-2,http://hm.hellolle.eu.org:35455/mgtv/923287211.m3u8
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
@@ -37,8 +45,6 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
