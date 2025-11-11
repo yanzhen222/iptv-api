@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-11 18:23:42,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-12 06:20:26,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
@@ -16,7 +16,6 @@ CETV-2,http://ygbh.site/php/bfgd.php?id=492
 CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
-广东卫视,http://sh.lnott.top:880/dx40.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
@@ -24,11 +23,9 @@ CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-吉林卫视,http://sh.lnott.top:880/dx37.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-天津卫视,http://sh.lnott.top:880/dx30.m3u8
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️四川频道,#genre#
