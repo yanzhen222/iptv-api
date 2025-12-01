@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 18:32:42,https://cdn3.163189.xyz/163189/cctv13
+2025-12-02 06:26:56,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -12,7 +12,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-辽宁卫视,https://www.goodiptv.club/douyu/9403738
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 
 ☘️四川频道,#genre#
