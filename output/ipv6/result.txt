@@ -1,10 +1,13 @@
 🕘️更新时间,#genre#
-2026-01-08 06:26:00,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+2026-01-08 18:58:02,http://k.061899.xyz/k.php?id=cctv5
 
 📺央视频道,#genre#
+CCTV-5,http://k.061899.xyz/k.php?id=cctv5
 
 📡卫视频道,#genre#
+广东卫视,http://k.061899.xyz/k.php?id=gdws
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
