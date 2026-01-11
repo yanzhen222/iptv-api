@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-11 18:24:33,https://iptv.catvod.com/live.php?id=CETV2
+2026-01-12 06:23:07,https://iptv.catvod.com/live.php?id=CETV2
 
 📺央视频道,#genre#
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2
