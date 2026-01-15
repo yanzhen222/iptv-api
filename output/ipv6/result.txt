@@ -1,14 +1,16 @@
 🕘️更新时间,#genre#
-2026-01-15 18:28:17,https://iptv.catvod.com/live.php?id=CETV2
+2026-01-16 06:27:45,https://iptv.catvod.com/live.php?id=CETV2
 
 📺央视频道,#genre#
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2
+CETV-4,https://iptv.catvod.com/live.php?id=CETV4
 
 📡卫视频道,#genre#
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
