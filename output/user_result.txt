@@ -1,15 +1,14 @@
 🕘️更新时间,#genre#
-2026-03-10 18:42:20,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-11 06:31:31,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
-CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=12
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4%E7%BE%8E%E6%B4%B2&line=2
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=12
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
@@ -20,7 +19,6 @@ CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=15
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
-CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=15
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
@@ -31,14 +29,12 @@ CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=11
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
 CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
-CCTV-11,http://117.72.45.109:3577/667987558?reptoken=R/mg&auth=
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=14
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-14,http://117.72.45.109:3577/624878440?reptoken=R/mg&auth=
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4
@@ -60,7 +56,6 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://8.138.7.223/tv/btime.php?id=bjws4k
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=3
@@ -102,16 +97,14 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
-凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
-凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,http://8.138.7.223/【公众号：榴芒电视】/四川科教.m3u8
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
