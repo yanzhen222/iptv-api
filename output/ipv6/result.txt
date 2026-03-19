@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-03-19 06:34:56,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
+2026-03-19 18:42:46,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 📺央视频道,#genre#
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
 
 📡卫视频道,#genre#
 
