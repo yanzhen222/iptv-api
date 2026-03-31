@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-31 06:39:06,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
+2026-03-31 18:58:12,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
 
 📺央视频道,#genre#
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918742&major_anchor_level=common&sign=a4d912bb7632093a3abd3ba49b433cfb&t_id=037-20260324085902304A0E23B51C7C6CBF90-Ll7Kft
-CETV-4,https://iptv.catvod.com/live.php?id=CETV4
 
 📡卫视频道,#genre#
 
