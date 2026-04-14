@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2026-04-14 19:07:28,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776694865&major_anchor_level=common&sign=b4eb8da6e3f5ce18d3fc3a3644a4f296&t_id=037-202604132221050DE10D71B5AE1F13452B-RbdRaV
+2026-04-15 06:52:02,https://iptv.catvod.com/live.php?id=CETV4
 
 📺央视频道,#genre#
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776694865&major_anchor_level=common&sign=b4eb8da6e3f5ce18d3fc3a3644a4f296&t_id=037-202604132221050DE10D71B5AE1F13452B-RbdRaV
+CETV-4,https://iptv.catvod.com/live.php?id=CETV4
 
 📡卫视频道,#genre#
 
