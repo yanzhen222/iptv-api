@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-28 19:47:49,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-04-29 07:00:29,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
@@ -74,15 +74,12 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 ☘️四川频道,#genre#
 乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
-井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,http://8.138.7.223/【公众号：榴芒电视】/四川科教.m3u8

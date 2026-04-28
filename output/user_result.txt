@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-28 19:47:49,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-04-29 07:00:29,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
@@ -22,7 +22,6 @@ CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=3
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
 CCTV-12,https://iptv.catvod.com/catvod?id=CCTV12&line=2
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=14
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -75,15 +74,12 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 ☘️四川频道,#genre#
 乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
-井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
