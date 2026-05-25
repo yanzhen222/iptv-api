@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-25 07:01:31,https://xykt-fix.github.io/play/a02e/index.m3u8
+2026-05-25 21:36:09,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 📺央视频道,#genre#
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 📡卫视频道,#genre#
+广西卫视,http://a.xiongnas.top:8888/rtp/239.3.1.39:8300
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
