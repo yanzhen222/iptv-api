@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-05-31 19:46:31,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
+2026-06-01 07:08:39,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
