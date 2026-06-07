@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-07 19:52:22,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-06-08 07:08:24,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
-CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=4495555c28e027d370ae1c1bba64a72e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=12
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
@@ -20,9 +19,8 @@ CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
-CCTV-15,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2
+CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
@@ -30,11 +28,10 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
 CETV-1,http://8.138.7.223/tv/migu2.php?id=88
-CETV-1,http://183.220.107.138:4022/rtp/239.11.0.139:5140
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,https://iptv.catvod.com/catvod?id=CETV4&line=2
 
@@ -61,8 +58,8 @@ CETV-4,https://iptv.catvod.com/catvod?id=CETV4&line=2
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&line=3
 海南卫视,http://b.xiongnas.top:8888/rtp/239.3.1.45:8304
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
-河南卫视,http://192.151.150.154/live/hawshd.m3u8
 河南卫视,http://198.204.228.26/live/hawshd.m3u8
+河南卫视,http://192.151.150.154/live/hawshd.m3u8
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=4
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=7
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
@@ -87,8 +84,6 @@ CETV-4,https://iptv.catvod.com/catvod?id=CETV4&line=2
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
