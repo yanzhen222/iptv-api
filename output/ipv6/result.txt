@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-06-24 07:12:26,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-06-24 20:23:31,http://x1x.bid:5146/rtp/239.3.1.45:8304
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+海南卫视,http://x1x.bid:5146/rtp/239.3.1.45:8304
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
