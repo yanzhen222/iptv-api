@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-02 07:17:49,http://198.204.240.250:82/live/cctv6.m3u8
+2026-07-02 20:12:17,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
@@ -12,21 +12,21 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
-CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,https://iptv.catvod.com/catvod?id=CETV4&line=2
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
@@ -40,12 +40,11 @@ CETV-4,https://iptv.catvod.com/catvod?id=CETV4&line=2
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://198.204.228.26/live/snwshd.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
-陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
-陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
 
 ☘️四川频道,#genre#
@@ -58,6 +57,7 @@ CETV-4,https://iptv.catvod.com/catvod?id=CETV4&line=2
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 四川科教,http://8.138.7.223/【公众号：榴芒电视】/四川科教.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
