@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-13 19:19:08,https://live.chinacert.cftest5.cn/cnmg/live/923287154
+2026-08-14 06:57:15,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 📺央视频道,#genre#
-CETV-1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
 CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 
 📡卫视频道,#genre#
-东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
