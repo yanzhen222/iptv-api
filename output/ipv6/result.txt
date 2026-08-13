@@ -1,9 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-13 06:56:10,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-08-13 19:19:08,https://live.chinacert.cftest5.cn/cnmg/live/923287154
 
 📺央视频道,#genre#
+CETV-1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
+CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
+CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 
 📡卫视频道,#genre#
+东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
@@ -11,4 +15,3 @@
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
