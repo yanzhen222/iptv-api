@@ -1,31 +1,41 @@
 🕘️更新时间,#genre#
-2026-08-23 18:36:25,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-08-24 06:36:38,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
+CETV-2,http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
+CETV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2
+CETV-2,http://204.12.221.218:8181/3m1080p/cetv2.m3u8
+CETV-2,http://198.204.228.26/live/cetv2.m3u8
+CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV-2,http://183.220.107.138:4022/rtp/239.11.0.246:5140
+CETV-2,http://tnvcn.com:8012/rtp/239.3.1.54:4120
+CETV-2,http://139.214.181.142:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-2,http://139.214.181.174:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
+CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
-CETV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
-CETV-4,http://198.204.228.26/live/cetv4.m3u8
-CETV-4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 CETV-4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
-CETV-4,http://tnvcn.com:8012/rtp/239.3.1.56:4120
+CETV-4,http://198.204.228.26/live/cetv4.m3u8
+CETV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
+CETV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV-4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
+CETV-4,http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-4,http://111.8.242.142:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-4,http://111.8.224.6:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-4,http://111.8.242.127:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-4,http://139.214.181.142:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-4,http://139.214.181.174:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
