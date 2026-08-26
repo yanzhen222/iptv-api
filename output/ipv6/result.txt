@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-26 06:42:24,https://live.chinacert.cftest5.cn/cnmg/live/923287211
+2026-08-26 18:50:00,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 
 📺央视频道,#genre#
-CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
-CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 
 📡卫视频道,#genre#
 
