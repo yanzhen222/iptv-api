@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-27 11:12:06,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+2026-08-28 04:30:12,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
