@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2026-09-01 09:17:00,https://live.chinacert.cftest5.cn/cnmg/live/923287339
+2026-09-01 22:49:13,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 📺央视频道,#genre#
-CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
+CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 📡卫视频道,#genre#
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
