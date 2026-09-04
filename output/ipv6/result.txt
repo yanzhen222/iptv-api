@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 22:28:45,https://live.chinacert.cftest5.cn/cnmg/live/923287211
+2026-09-04 08:04:48,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 📺央视频道,#genre#
 CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
@@ -14,3 +14,4 @@ CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
