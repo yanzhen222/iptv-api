@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-09-05 21:20:46,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-09-06 07:44:52,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 📺央视频道,#genre#
+CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 📡卫视频道,#genre#
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
@@ -12,3 +13,4 @@
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
