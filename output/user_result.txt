@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2026-09-13 07:48:37,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-09-13 22:09:32,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV-2,http://m.061899.xyz/mg/cetv2
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
-CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,http://59.110.175.70:10000/923287339
@@ -38,8 +38,8 @@ CETV-4,http://m.061899.xyz/mg/cetv4
 凉山语,rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
-四川科教,http://8.138.7.223/【公众号：榴芒电视】/四川科教.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川科教,http://8.138.7.223/【公众号：榴芒电视】/四川科教.m3u8
 夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
@@ -52,7 +52,6 @@ CETV-4,http://m.061899.xyz/mg/cetv4
 石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian
 荥经综合,rtmp://tv.yunxya.com:1937/channellive/yingjing
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456
